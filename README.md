@@ -1,4 +1,4 @@
-# Desafio3Desafio 3
+# Desafio3
 ================
 
 Informações do aluno:
@@ -6,7 +6,6 @@ Informações do aluno:
 
 -   **Nome**: Lucas E. O. Silva
 -   **Programa**: Mestrado em Ciência Política
--   **Número USP**: 10236603
 -   **Data de entrega**: 12/05/2017
 -   **Disponbilização de todo material**: <https://github.com/lucaseosilva>
 
