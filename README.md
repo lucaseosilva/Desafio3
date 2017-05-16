@@ -37,15 +37,15 @@ Do Perfil dos Municípios Brasileiros, foram selecionadas as variáveis refentes
 
 <!-- -->
 
-#####1.  Tesouro Nacional:
+2.  Tesouro Nacional:
 
 Em relação aos dados financeiros e fiscais dos municípios, selecionei as Despesas Orçamentárias - Pagas (Anexo I-D) referentes ao ano de 2015. A base está desagregada por transação, contudo interessa-me apenas o total gasto por cada administração (variável contínua).
 
-1.  DATASUS:
+3.  DATASUS:
 
 No que se refere aos dados de óbitos, foram selecionados aqueles por residência e de acordo com o Capítulo CID-10 (variável discreta). Essa categoria médica trata de algumas doenças infecciosas e parasitárias.
 
-1.  PNUD:
+4.  PNUD:
 
 Por fim, foram escolhidos cinco indicadores de habitação do Atlas Brasil, são eles:
 
