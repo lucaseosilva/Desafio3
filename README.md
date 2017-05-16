@@ -6,8 +6,7 @@ Informações do aluno:
 
 -   **Nome**: Lucas E. O. Silva
 -   **Programa**: Mestrado em Ciência Política
--   **Data de entrega**: 12/05/2017
--   **Disponbilização de todo material**: <https://github.com/lucaseosilva>
+-   **Data de entrega**: 16/05/2017
 
 Descrição da atividade
 ----------------------
